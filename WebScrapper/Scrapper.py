@@ -1,6 +1,7 @@
 
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
+from api.main import postComments
 import json
 
 
@@ -31,6 +32,7 @@ def main():
     html_doc = web_scrapper("http://www.cnn.com/2013/09/24/politics/un-obama-foreign-policy/")
     soup = BeautifulSoup(html_doc, 'html.parser')
     print(create_json(html_doc, soup))
+    postComments(1, create_json(html_doc, soup))
     
     
     
