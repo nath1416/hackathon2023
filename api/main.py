@@ -16,13 +16,14 @@ def getComments():
     return comments
 
 
-comments = getComments()
-with open('data.json', 'w') as outfile:
-    json.dump(comments, outfile)
+# comments = getComments()
+# with open('data.json', 'w') as outfile:
+#     json.dump(comments, outfile)
 
 
-def postComments(id: int, body: str):
+def postComments(id: int, body):
     url = f"https://gud-2023-default-rtdb.firebaseio.com/Post{id}.json"
+
     payload = json.dumps(body)
     headers = {
         'Content-Type': 'application/json'
