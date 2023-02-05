@@ -45,12 +45,12 @@ def get_comments_database():
 
         print(current_comments)
         (categorie, percent) = isAtricleGoodFromComments(current_comments)
-        if categorie != "":
-            print("Good News")
+        if categorie != "" and percent > 0.70:
+            print(f"Good News: {categorie} with : {percent}")
             
             data_dic["categorie"] = categorie
             data_dic["percent"] = percent
-            send_database(data_dic, "sortedBetter3", str(random.getrandbits(128)))
+            send_database(data_dic, "sortedBetter4", str(random.getrandbits(128)))
 
 
 
