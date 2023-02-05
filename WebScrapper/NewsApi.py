@@ -56,7 +56,7 @@ def parse_articles(data_json, num_article):
         article_data["body"] = article["description"]
         article_data["url"] = article["url"]
         article_data["urlImage"] = article["urlToImage"]
-        article_data["hasImage"] = article["urlToImage"] is not "null"
+        article_data["hasImage"] = article["urlToImage"] != "null"
         comments_data = {}
         comments_data["body"] = filter_strings(article_data["body"])
         article_data["comments"] = comments_data
@@ -73,6 +73,7 @@ def generate_json_file(file_name:str, data_dict:dict, directory:str):
     out_file.close()
 
 def get_multiple_articles(newsapi):
+        init_firebase()
         subject_search = None
         continue_scrapping = True
 

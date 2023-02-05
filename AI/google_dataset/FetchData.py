@@ -15,7 +15,7 @@ def init_firebase():
     datab = firestore.client()
 
 def send_database(dict_data:dict, collection:str, document:str):
-    print(f"Sending {collection}{document}...")
+    print(f"Sending {collection}-{document}...")
     datab.collection(collection).document(document).set(dict_data)
 
 def get_comments_database():
@@ -33,8 +33,8 @@ def get_comments_database():
 
         if data_dic["type"] == "NewsApi" :
             #continue
-            file_history.write(data_dic["title"] + "\n")
-            current_comments.append(data_dic["body"])
+            file_history.write(data_dic["title"].strip() + "\n")
+            current_comments.append(data_dic["body"].strip())
         else:
             continue
         # elif data_dic["type"] == "Reddit":
@@ -45,12 +45,12 @@ def get_comments_database():
 
         print(current_comments)
         (categorie, percent) = isAtricleGoodFromComments(current_comments)
-        if categorie != "" and percent > 0.70:
+        if categorie != "" and percent > 0.75:
             print(f"Good News: {categorie} with : {percent}")
             
             data_dic["categorie"] = categorie
-            data_dic["percent"] = percent
-            send_database(data_dic, "sortedBetter4", str(random.getrandbits(128)))
+            data_dic["percent"] = round(percent * 100)
+            send_database(data_dic, "Test", str(random.getrandbits(128)))
 
 
 
