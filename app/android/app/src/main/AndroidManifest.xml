@@ -37,7 +37,7 @@
     </application>
 </manifest>
 
-<queries>
+<!-- <queries>
     <intent>
         <action android:name="android.intent.action.VIEW" />
         <data android:scheme="https" />
@@ -54,4 +54,4 @@
         <action android:name="android.intent.action.SEND" />
         <data android:mimeType="*/*" />
     </intent>
-</queries>
+</queries> -->
