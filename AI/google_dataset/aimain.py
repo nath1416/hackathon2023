@@ -21,15 +21,14 @@ positive = [
 negative = ["disapproval", "disgust", "embarrassment", "sadness", "anger"]
 
 
-def makeExamples(df, tags):
+def makeExamples(df, tags_pos, tags_neg):
     df["isTherePositive"] = False
-    for tag in tags:
+    for tag in tags_pos:
         df["isTherePositive"] = df["isTherePositive"] | df[tag]
 
+    for tag in tags_neg:
+        df["isTherePositive"] = df["isTherePositive"] & ~df[tag]
     examples = []
-    for i, row in df[negative + ["isTherPositive"]].iterrows():
-        if 1 in row:
-            row["isTherePositive"] = 0
 
     for i, row in df.sample(n=2500).iterrows():
         examples.append(Example(row[1], str(int(row[-1]))))
