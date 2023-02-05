@@ -1,12 +1,13 @@
 import cohere
-
 from cohere.classify import Example
 from sklearn.model_selection import train_test_split
 from typing import List
 import pandas
+import os
 
+os.chdir(r"hackathon2023/AI/google_dataset")
 co = cohere.Client("FU0PxYd1At7VfBuFkqAX5I1G4Poykr7dmgoM8fsg")
-df = pandas.read_csv("go_emotions_dataset.csv")
+df = pandas.read_csv(r"go_emotions_dataset.csv")
 
 positive = [
     "admiration",
@@ -37,8 +38,10 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
     # temporary
     input = [",".join(comments)]
     print(type(input))
-    return co.classify(
-        examples=makeExamples(df, positive), inputs=comments, model="small"
+    return bool(
+        co.classify(examples=makeExamples(df, positive), inputs=comments, model="small")
+        .classifications[0]
+        .prediction
     )
 
 
