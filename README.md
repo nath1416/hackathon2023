@@ -21,8 +21,6 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/nath1416/hackathon2023/total) ![Contributors](https://img.shields.io/github/contributors/nath1416/hackathon2023?color=dark-green) ![License](https://img.shields.io/github/license/nath1416/hackathon2023)
-
 ## Table Of Contents
 
 - [About the Project](#about-the-project)
