@@ -17,7 +17,9 @@ positive = [
     "optimism",
     "relief",
 ]
+
 negative = ["disapproval", "disgust", "embarrassment", "sadness", "anger"]
+cancel_words = ["drown", "kill"]
 
 
 def makeExamples(df, tags_pos, tags_neg):
@@ -38,7 +40,11 @@ def makeExamples(df, tags_pos, tags_neg):
     examples = []
 
     for i, row in df.iterrows():
-        examples.append(Example(row[1], str(row[-1])))
+        for cancel in cancel_words:
+            if cancel in row[1]:
+                examples.append(row[1], 0)
+            else:
+                examples.append(Example(row[1], str(row[-1])))
 
     print(df)
     return examples
