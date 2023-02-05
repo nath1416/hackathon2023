@@ -22,35 +22,37 @@ def get_comments_database():
     data_db = datab.collection("data")
     data_dcs = data_db.stream()
     file_history = open("exploredData.txt", "r+")
-
+    doublon = False
     for data in data_dcs:
         data_dic = data.to_dict() 
         # print(type(data_dic))
         current_comments = []
         
-        if str(data_dic["title"]) in file_history.read():
+        if data_dic["title"] in file_history.read():
+            doublon = True
             continue
 
-        if data_dic["type"] == "NewsApi" :
-            #continue
-            file_history.write(data_dic["title"].strip() + "\n")
-            current_comments.append(data_dic["body"].strip())
-        else:
-            continue
-        # elif data_dic["type"] == "Reddit":
-        #     file.write(data_dic["title"])
-        #     for comment in data_dic["comments"]:
-        #         if comment["body"].strip() != "":
-        #             current_comments.append(comment["body"])
+        if not doublon:
+            if data_dic["type"] == "NewsApi" :
+                #continue
+                file_history.write(data_dic["title"].strip() + "\n")
+                current_comments.append(data_dic["body"].strip())
+            else:
+                continue
+            # elif data_dic["type"] == "Reddit":
+            #     file.write(data_dic["title"])
+            #     for comment in data_dic["comments"]:
+            #         if comment["body"].strip() != "":
+            #             current_comments.append(comment["body"])
 
-        print(current_comments)
-        (categorie, percent) = isAtricleGoodFromComments(current_comments)
-        if categorie != "" and percent > 0.75:
-            print(f"Good News: {categorie} with : {percent}")
-            
-            data_dic["categorie"] = categorie
-            data_dic["percent"] = round(percent * 100)
-            send_database(data_dic, "Test", str(random.getrandbits(128)))
+            print(current_comments)
+            (categorie, percent) = isAtricleGoodFromComments(current_comments)
+            if categorie != "" and percent > 0.75:
+                print(f"Good News: {categorie} with : {percent}")
+                
+                data_dic["categorie"] = categorie
+                data_dic["percent"] = round(percent * 100)
+                send_database(data_dic, "Final", str(random.getrandbits(128)))
 
 
 
