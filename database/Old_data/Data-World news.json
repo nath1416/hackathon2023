@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 65671,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Week in pictures: 21-27 January 2023",
+            "description": "A selection of powerful news photographs taken around the world this week.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-64424647",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18667/production/_128434999_a949cf6bd7a8c722e4947d1a91646f3e94976288.jpg",
+            "publishedAt": "2023-01-28T00:07:54Z",
+            "content": "A selection of powerful news photographs taken around the world this week."
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Week in pictures: 28 January - 3 February 2023",
+            "description": "A selection of powerful news photographs taken around the world this week.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-64512173",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/178C3/production/_128515469_shutterstock_editorial_13751578aj.jpg",
+            "publishedAt": "2023-02-04T01:42:11Z",
+            "content": "A selection of powerful news photographs taken around the world this week."
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Finally, bad news is bad news - Reuters",
+            "description": "A look at the day ahead in Asian markets from Jamie McGeever.",
+            "url": "https://www.reuters.com/markets/asia/global-markets-view-asia-graphic-pix-2023-01-18/",
+            "urlToImage": "https://www.reuters.com/resizer/ona84h7CVBiYoz4815m0JtixW0k=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ODQXDUEFTVOTNIKZ6A5BU6MXDM.jpg",
+            "publishedAt": "2023-01-18T21:47:00Z",
+            "content": "Jan 19 (Reuters) - A look at the day ahead in Asian markets from Jamie McGeever.\r\nNo fireworks from the Bank of Japan but plenty damp squibs for investors to ruminate over, as a string of dismal U.S.\u2026 [+2581 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lifehacker.com"
+            },
+            "author": "Stephen Johnson",
+            "title": "The Out-of-Touch Adults' Guide to Kid Culture: Why Is Everyone Watching 'The Last of Us'?",
+            "description": "There\u2019s something for everyone this week in the world of young people culture, whether you like post-apocalyptic drama, shaming creepy dudes at the gym, or pretending to be a wizard in one of them damn vidja games.Read more...",
+            "url": "https://lifehacker.com/why-is-everyone-watching-the-last-of-us-the-out-of-tou-1850068835",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4f56e606ef9832a3139f1f01edad1bd6.jpg",
+            "publishedAt": "2023-02-03T15:00:00Z",
+            "content": "Theres something for everyone this week in the world of young people culture, whether you like post-apocalyptic drama, shaming creepy dudes at the gym, or pretending to be a wizard in one of them dam\u2026 [+4960 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Davos 2023 - Citi CEO Fraser says China opening up is good news ... - Reuters",
+            "description": "China's opening up is important for the world and there is good news from market friendly measures taken there, Citi Group's chief executive Jane Fraser told a panel at the World Economic Forum's (WEF) annual meeting on Wednesday.",
+            "url": "https://www.reuters.com/markets/davos-2023-citi-ceo-fraser-says-china-opening-up-is-good-news-market-2023-01-18/",
+            "urlToImage": "https://www.reuters.com/resizer/1f-ASGS9TI4yYcvgKa4sioFYIeU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KHUN2VUYWNIMLK6QAF7UJJAPTM.jpg",
+            "publishedAt": "2023-01-18T09:09:00Z",
+            "content": "DAVOS, Switzerland, Jan 18 (Reuters) - China's opening up is important for the world and there is good news from market friendly measures taken there, Citi Group's chief executive Jane Fraser told a \u2026 [+321 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Fact Check",
+            "title": "Fact Check-Screenshot of Fox News broadcast claiming white ... - Reuters",
+            "description": "A Fox News graphic presenting results of a survey on the greatest threats to world peace has been digitally altered and shared on social media. In the edited version, the graphic lists \u201cwhite women\u201d as the biggest threat.",
+            "url": "https://www.reuters.com/article/factcheck-fox-peace-idUSL1N34G1CT",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2023-01-31T13:42:00Z",
+            "content": "A Fox News graphic presenting results of a survey on the greatest threats to world peace has been digitally altered and shared on social media. In the edited version, the graphic lists white women as\u2026 [+1049 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rob Bricken",
+            "title": "Beau Is Afraid Looks Like a Horror Flick for Joaquin Phoenix Only",
+            "description": "Director Ari Aster is known for his critically acclaimed horror films Hereditary and Midsommar, but his upcoming film Beau Is Afraid seemingly has a twist. As its title implies, its main character (Joaquin Phoenix) is certainly terrified by the world... but t\u2026",
+            "url": "https://gizmodo.com/beau-is-afraid-trailerari-aster-a24-joaquin-phoenix-1849969640",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d11ef0a0667d6e589f4c7e5b31e9977e.jpg",
+            "publishedAt": "2023-01-10T17:05:00Z",
+            "content": "Director Ari Aster is known for his critically acclaimed horror films Hereditary and Midsommar, but his upcoming film Beau Is Afraid seemingly has a twist. As its title implies, its main character (J\u2026 [+1521 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Hafsa Khalil, CNN",
+            "title": "Restaurant named the world's best to close next year",
+            "description": "Noma, one of the most feted restaurants in the world, is set to close its doors to diners next year.",
+            "url": "https://www.cnn.com/travel/article/noma-closes-copenhagen-intl-scli/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230109091501-01-noma-restaurant-closing-redzepi-super-tease.jpg",
+            "publishedAt": "2023-01-09T16:34:38Z",
+            "content": "(CNN) Noma, one of the most feted restaurants in the world, is set to close its doors to diners next year.\r\nBut after years of serving dishes based on locally foraged ingredients -- from reindeer bra\u2026 [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Fact Check",
+            "title": "Fact Check-Fabricated CBS News headline that 'world is run by the ... - Reuters",
+            "description": "A fabricated CBS News screenshot has been circulating online showing a headline claiming that the world is \u201crun by the super-rich.\u201d No such headline was published by the news outlet, however.",
+            "url": "https://www.reuters.com/article/factcheck-wef-cbs-idUSL1N3482ER",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2023-01-23T21:11:00Z",
+            "content": "A fabricated CBS News screenshot has been circulating online showing a headline claiming that the world is run by the super-rich. No such headline was published by the news outlet, however.\r\nThe CBS \u2026 [+2092 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Justice Kavanaugh rips U.S. News rankings as 'highly problematic ... - Reuters.com",
+            "description": "U.S. Supreme Court Justice Brett Kavanaugh has joined the growing chorus of U.S. News & World Report law school rankings critics, saying during a talk this week at the University of Notre Dame Law School that the annual list fails to accurately gauge which sc\u2026",
+            "url": "https://www.reuters.com/legal/government/justice-kavanaugh-rips-us-news-rankings-highly-problematic-law-school-talk-2023-01-27/",
+            "urlToImage": "https://www.reuters.com/resizer/oAqFbJjHFftFtDjryqoH13HXb08=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MOCBU4ADKZK23N4XRJOEDOXRCY.jpg",
+            "publishedAt": "2023-01-27T18:18:00Z",
+            "content": "Jan 27 (Reuters) - U.S. Supreme Court Justice Brett Kavanaugh has joined the growing chorus of U.S. News &amp; World Report law school rankings critics, saying during a talk this week at the Universi\u2026 [+2823 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Oliver Darcy",
+            "title": "Analysis: How McCarthy's unprecedented leadership battle is a reflection of Fox News and right-wing media",
+            "description": "It's Tucker Carlson versus Sean Hannity in the Republican Party.",
+            "url": "https://www.cnn.com/2023/01/05/tech/fox-news-mccarthy/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230104160450-10-day-2-house-speaker-vote.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T15:51:34Z",
+            "content": "Its Tucker Carlson versus Sean Hannity in the Republican Party.\r\nThe divisions inside the GOP, being laid bare on national television via the dramatic fight between Kevin McCarthy and a faction of re\u2026 [+3004 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "BBC Komla Dumor Award 2023 launched",
+            "description": "The BBC is seeking a future star of African journalism for the BBC News Komla Dumor Award 2023.",
+            "url": "https://www.bbc.co.uk/news/world-africa-64221369",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05E7/production/_111011510_komla_4.jpg",
+            "publishedAt": "2023-01-17T03:37:35Z",
+            "content": "Media caption, Komla Dumor's former colleagues reflect on the late broadcaster's talent\r\nThe BBC is seeking a rising star of African journalism for the BBC News Komla Dumor Award, now in its eighth y\u2026 [+3452 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Justin Carter",
+            "title": "Captain America: New World Order Adds Xosha Roquemore to Its Superheroic Cast",
+            "description": "Marvel\u2019s upcoming 2024 flick Captain America: New World Order is mostly comprised of MCU alums such as Anthony Mackie\u2019s Sam Wilson and Tim Blake Nelson as the Leader. But it\u2019s got a few notable newcomers sprinkled in, such as Harrison Ford\u2019s Thaddeus Ross and\u2026",
+            "url": "https://gizmodo.com/captain-america-new-world-order-xosha-roquemore-1850015243",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c8d1643690150f79bdd5f7fffa0735d1.jpg",
+            "publishedAt": "2023-01-21T17:45:00Z",
+            "content": "Marvels upcoming 2024 flick Captain America: New World Orderis mostly comprised of MCU alums such as Anthony Mackies Sam Wilson and Tim Blake Nelson as the Leader. But its got a few notable newcomers\u2026 [+1931 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lianne Kolirin",
+            "title": "Jay Briscoe, US pro wrestling star, dead at 38",
+            "description": "The US wrestling world is in shock after the death was announced of professional wrestler Jay Briscoe at age 38.",
+            "url": "https://www.cnn.com/2023/01/18/sport/jay-briscoe-wrestler-death-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230118040555-01-jay-briscoe-obit-101516.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-18T11:30:59Z",
+            "content": "Professional wrestler Jay Briscoe has died at age 38. \r\nThe US wrestling world is in shock following the announcement of the death of the Ring of Honor (ROH) star, whose real name was Jamin Pugh. \r\nT\u2026 [+1542 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Lianne Kolirin, Arnaud Siad",
+            "title": "US-born Spanish woman is now the world's oldest person, at age 115",
+            "description": "She has survived the horrors of two world wars, a civil war and two global pandemics.",
+            "url": "https://www.cnn.com/2023/01/26/europe/maria-branyas-morera-oldest-person-scli-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230126100503-mara-branyas-morera.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-26T12:21:34Z",
+            "content": "She has survived the horrors of two world wars, a civil war and two global pandemics.\r\nNow US-born Maria Branyas Morera has been named the worlds oldest person by Guinness World Records (GWR), follow\u2026 [+2188 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Westernstandard.news"
+            },
+            "author": "Lee Harding",
+            "title": "Bedard snaps on reporter following World Junior Gold - Western Standard",
+            "description": "<ol><li>Bedard snaps on reporter following World Junior Gold\u00a0\u00a0Western Standard\r\n</li><li>World Juniors gold medal celebrations continue\u00a0\u00a0CTV News Atlantic\r\n</li><li>Blues' Snuggerud Excels at 2023 World Juniors\u00a0\u00a0The Hockey Writers\r\n</li><li>Saskatchewan famil\u2026",
+            "url": "https://www.westernstandard.news/news/bedard-snaps-on-reporter-following-world-junior-gold/article_bf9b8bde-8df4-11ed-b2fe-07708b1fb3a9.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/westernstandard.news/content/tncms/assets/v3/editorial/5/16/516b9716-8df5-11ed-bf23-3bba48c9478c/63b871841e734.image.jpg?crop=1200%2C630%2C0%2C20&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-01-06T19:20:00Z",
+            "content": "Canada won the World Junior Hockey Championship with an overtime goal, but post-game commentary by tournament MVP Connor Bedard became an important point of discussion after the game.\r\nDylan Guenther\u2026 [+4238 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Davos 2023: Zelenskyy urges allies to move faster on Russia - CTV News",
+            "description": "<ol><li>Davos 2023: Zelenskyy urges allies to move faster on Russia\u00a0\u00a0CTV News\r\n</li><li>Live: \u2018Russia is exporting terror\u2019, says Zelenskyy at Davos\u00a0\u00a0Al Jazeera English\r\n</li><li>Ukraine's Zelenskyy addresses world leaders at World Economic Forum | LIVE\u00a0\u00a0Globa\u2026",
+            "url": "https://www.ctvnews.ca/world/at-davos-zelenskyy-urges-allies-to-speed-up-push-vs-russia-1.6235494",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/18/volodymyr-zelenskyy-1-6236052-1674069165297.jpg",
+            "publishedAt": "2023-01-18T14:34:00Z",
+            "content": "DAVOS, Switzerland - \r\nUkrainian President Volodymyr Zelenskyy told political leaders at the World Economic Forum meeting in Davos that Western supplies of weapons must outpace Russia's attacks, urgi\u2026 [+5955 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Your pictures on the theme of 'together'",
+            "description": "A selection of striking images from our readers around the world.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-64424297",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/12019/production/_128435737_05.jpg",
+            "publishedAt": "2023-01-29T00:09:10Z",
+            "content": "We asked our readers to send in their best pictures on the theme of \"together\". Here is a selection of the photographs we received from around the world.\r\nImage source, Elizabeth Spear\r\nImage caption\u2026 [+3383 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Your pictures on the theme of 'open doors'",
+            "description": "A selection of striking images from our readers around the world.",
+            "url": "https://www.bbc.co.uk/news/in-pictures-64263211",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/36FE/production/_128287041_12.jpg",
+            "publishedAt": "2023-01-15T00:16:01Z",
+            "content": "We asked our readers to send in their best pictures on the theme of \"open doors\". Here is a selection of the photographs we received from around the world.\r\nImage source, Tricia Ryan\r\nImage caption, \u2026 [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Castanet.net"
+            },
+            "author": null,
+            "title": "Biden and Kishida discuss Japan 'stepping up' security - World News - Castanet.net",
+            "description": "<ol><li>Biden and Kishida discuss Japan 'stepping up' security - World News\u00a0\u00a0Castanet.net\r\n</li><li>Japan's PM says 'China is a central challenge' for both Canada and Japan\u00a0\u00a0CBC News\r\n</li><li>U.S.-Japan warn against use of force or coercion anywhere in world\u2026",
+            "url": "https://www.castanet.net/news/World/406111/Biden-and-Kishida-discuss-Japan-stepping-up-security",
+            "urlToImage": "https://www.castanet.net/content/2023/1/20230113120112-63c191cdd74e0a42eb00679ajpeg_p3651111.jpg",
+            "publishedAt": "2023-01-13T17:49:00Z",
+            "content": "President Joe Biden and Japanese Prime Minister Fumio Kishida were holding wide-ranging talks at the White House on Friday as Japan looks to build security cooperation with allies in a time of provoc\u2026 [+6606 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "Apple Cancels the iPhone SE 4 Just as the iPhone 14 Catches Up on Production",
+            "description": "Leave it to Apple to make headlines during CES 2023 even though it wasn\u2019t exhibiting with the rest of the tech world. While we were covering the conference, Apple made moves in iPhone manufacturing. We learned that the iPhone SE probably won\u2019t be getting a re\u2026",
+            "url": "https://gizmodo.com/apple-cancels-iphone-se-4-14-pro-max-delay-over-supply-1849966596",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d071f458f9b754663186b69fd735efb8.jpg",
+            "publishedAt": "2023-01-09T20:30:00Z",
+            "content": "Leave it to Apple to make headlines during CES 2023 even though it wasnt exhibiting with the rest of the tech world. While we were covering the conference, Apple made moves in iPhone manufacturing. W\u2026 [+2890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Jonathan Small",
+            "title": "The 'Best Job' of 2023 Pays $120,000. What Is It?",
+            "description": "U.S. News & World Report released its annual rankings\u2014 and there were some surprises.",
+            "url": "https://www.entrepreneur.com/business-news/the-best-job-of-2023-pays-120000-what-is-it/443047",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1673931726-software.jpeg",
+            "publishedAt": "2023-01-17T05:02:00Z",
+            "content": "What job offers you a chance to carry out innovative ideas, a great work-life balance, and a $120,000 annual salary?\r\nIf you guessed software developer, you're not buggy.\r\nU.S News and World Report r\u2026 [+2519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tsn.ca"
+            },
+            "author": "The Canadian Press",
+            "title": "Connor Bedard Canada USA World Junior semifinal - TSN",
+            "description": "<ol><li>Connor Bedard Canada USA World Junior semifinal\u00a0\u00a0TSN\r\n</li><li>What channel is Canada vs. USA on today? Start time, live stream for 2023 World Juniors semifinal\u00a0\u00a0Sporting News\r\n</li><li>WJC 2023 Semifinal Preview: Canada vs USA\u00a0\u00a0The Hockey Writers\r\n</\u2026",
+            "url": "https://www.tsn.ca/world-juniors/connor-bedard-canada-usa-world-junior-semifinal-1.1901170",
+            "urlToImage": "https://www.tsn.ca/content/dam/tsn/en/home/images/2023/1/3/connor-bedard--brandt-clarke-1-1901173-1672854067814.jpeg",
+            "publishedAt": "2023-01-04T15:50:00Z",
+            "content": "HALIFAX Brandt Clarke was a month short of his sixth birthday.\r\nThe moment, however, remains etched in his memory.\r\nJohn Tavares scored a dramatic hat trick for Canada against the United States in a \u2026 [+5168 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "'Every kid's dream': U.S., Canada set to face off in world junior hockey semifinals - CTV News",
+            "description": "<ol><li>'Every kid's dream': U.S., Canada set to face off in world junior hockey semifinals\u00a0\u00a0CTV News\r\n</li><li>Mark Masters: Connor Bedard breaking hearts, rules of hockey in Halifax\u00a0\u00a0TSN\r\n</li><li>2023 World Juniors Semifinal #2: USA vs. CAN \u2014 Lineups & sta\u2026",
+            "url": "https://www.ctvnews.ca/sports/every-kid-s-dream-u-s-canada-set-to-face-off-in-world-junior-hockey-semifinals-1.6217650",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/4/connor-bedard-1-6217661-1672866439525.jpg",
+            "publishedAt": "2023-01-04T21:07:00Z",
+            "content": "HALIFAX - \r\nThe United States and Canada face off Wednesday night in another installment of their world junior hockey rivalry, with a trip to the title game on the line.\r\nThey advanced to the semifin\u2026 [+1397 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "John Brewin",
+            "title": "Transfer latest, team news and more: weekend football countdown \u2013 live",
+            "description": "<ul><li>Premier League: 10 things to look out for this weekend</li><li>And you can drop John an email or tweet @JohnBrewin_</li></ul>Anyone remember the World Cup? Big matches, Lionel Messi, Gianni Infantino, the best World Cup ever supposedly, and only a mon\u2026",
+            "url": "https://www.theguardian.com/football/live/2023/jan/20/transfer-latest-team-news-and-more-weekend-football-countdown-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/f977a30e04a6a3de301c80fa245445fc95d87747/0_437_4358_2614/master/4358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=e21b630262c7d5190a9128ccf918e224",
+            "publishedAt": "2023-01-20T10:24:03Z",
+            "content": "Anyone remember the World Cup? Big matches, Lionel Messi, Gianni Infantino, the best World Cup ever supposedly, and only a month ago on Wednesday. And yet amid a blizzard of domestic football, its al\u2026 [+1026 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Castanet.net"
+            },
+            "author": null,
+            "title": "Supreme Court says it hasn't found abortion opinion leaker - World News - Castanet.net",
+            "description": "<ol><li>Supreme Court says it hasn't found abortion opinion leaker - World News\u00a0\u00a0Castanet.net\r\n</li><li>Report fails to identify source of US Supreme Court draft leak\u00a0\u00a0Al Jazeera English\r\n</li><li>Supreme Court says it hasn't found abortion opinion leaker\u00a0\u00a0Le\u2026",
+            "url": "https://www.castanet.net/news/World/407172/Supreme-Court-says-it-hasn-t-found-abortion-opinion-leaker",
+            "urlToImage": "https://www.castanet.net/content/2023/1/20230119140128-63c99a4e0b997c79bd6430e3jpeg_p3652691.jpg",
+            "publishedAt": "2023-01-19T20:17:00Z",
+            "content": "The Supreme Court said Thursday it has not determined who leaked a draft of the court's opinion overturning abortion rights, but that the investigation continues.\r\nEight months after Politico publish\u2026 [+1405 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Gino Odjick dies at 52 | CTV News - CTV News Vancouver",
+            "description": "<ol><li>Gino Odjick dies at 52 | CTV News\u00a0\u00a0CTV News Vancouver\r\n</li><li>Gino Odjick, a beloved Canucks enforcer, dies at 52\u00a0\u00a0Sportsnet.ca\r\n</li><li>Gino Odjick, Canucks fan favourite, dead at 52\u00a0\u00a0CBC Sports\r\n</li><li>Former Vancouver Canuck Gino Odjick dead a\u2026",
+            "url": "https://bc.ctvnews.ca/beloved-former-canuck-gino-odjick-dies-at-52-1.6231859",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2022/6/8/gino-odjick-s-plaque-1-5939307-1654739951097.png",
+            "publishedAt": "2023-01-16T00:02:00Z",
+            "content": "Gino Odjick, a fan favourite who played eight seasons with the Vancouver Canucks, has died.\u00a0\r\nThe news broke Sunday afternoon when his sister Dina posted to Facebook.\r\n\"Our hearts are broken. My brot\u2026 [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "B.C. video game studio SkyBox Labs acquired by NetEase | CTV News - CTV News VI",
+            "description": "<ol><li>B.C. video game studio SkyBox Labs acquired by NetEase | CTV News\u00a0\u00a0CTV News VI\r\n</li><li>BC video game studio SkyBox Labs acquired by major Chinese tech company NetEase | Venture\u00a0\u00a0Daily Hive\r\n</li><li>NetEase acquires Canadian game studio SkyBox Labs\u00a0\u2026",
+            "url": "https://vancouverisland.ctvnews.ca/b-c-video-game-company-acquired-by-chinese-tech-giant-netease-1.6220816",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/6/skybox-labs-1-6220819-1673037883398.jpg",
+            "publishedAt": "2023-01-06T20:46:23Z",
+            "content": "A B.C. videogame development company that has offices in Metro Vancouver and Victoria has been purchased by Chinese tech company NetEase Games.\r\nSkyBox Labs, which has two offices in Burnaby, B.C., a\u2026 [+1510 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Ant-Man and the Wasp: Quantumania Has an Ironically Massive New Trailer",
+            "description": "While Ant-Man is best known for being small, the latest trailer for Quantumania, the next installment of the\u00a0huge, multi-generational, inter-dimensional\u00a0Ant-Man and the Wasp series, reveals a world so much bigger than the previous two movies, it\u2019s almost unfa\u2026",
+            "url": "https://gizmodo.com/ant-man-3-trailer-the-wasp-quantumania-marvel-studios-1849965595",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/63b4c40172e662288983482010687c9b.jpg",
+            "publishedAt": "2023-01-10T03:21:00Z",
+            "content": "While Ant-Man is best known for being small, the latest trailer for Quantumania, the next installment of the\u00a0huge, multi-generational, inter-dimensional\u00a0Ant-Man and the Wasp series, reveals a world s\u2026 [+1557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "The Last of Us Just Revealed 2 Crucial Beginnings",
+            "description": "The second episode of The Last of Us\u00a0was all about beginnings: the beginning of the viral outbreak that would basically end the world, and the beginning of Joel and Ellie\u2019s story as the pair, along with Tess, set out into the open world of Boston. Helmed by L\u2026",
+            "url": "https://gizmodo.com/last-of-us-episode-2-recap-hbo-pedro-pascal-bella-ramse-1850009379",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38e96ede0319c221e9edfeb241ca6ee3.jpg",
+            "publishedAt": "2023-01-23T03:00:00Z",
+            "content": "The second episode of The Last of Us\u00a0was all about beginnings: the beginning of the viral outbreak that would basically end the world, and the beginning of Joel and Ellies story as the pair, along wi\u2026 [+9905 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Igor Bonifacic",
+            "title": "Microsoft will shut down AltspaceVR on March 10th",
+            "description": "Microsoft is narrowing its metaverse ambitions\r\n. In a blog post\r\n spotted by VentureBeat\r\n\u00a0(via The Verge\r\n), the company announced it would shut down AltspaceVR, the social virtual reality platform the company acquired in 2017\r\n, on March 10th, 2023. Micros\u2026",
+            "url": "https://www.engadget.com/microsoft-will-shut-down-altspacevr-on-march-10th-232434724.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-02/1beac560-8f4c-11ec-97f6-707c11d964e0",
+            "publishedAt": "2023-01-21T23:24:34Z",
+            "content": "Microsoft is narrowing its metaverse ambitions\r\n. In a blog post\r\n spotted by VentureBeat\r\n\u00a0(via The Verge\r\n), the company announced it would shut down AltspaceVR, the social virtual reality platform\u2026 [+1301 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Rob Bricken",
+            "title": "James Cameron Watches Movies Standing Up, Apparently",
+            "description": "Good news for James Cameron and giant blue cat-people aficionados alike: The Way of Water, the Avatar sequel, has made more than $1.7 billion and counting, paving the way for those three additional sequels the director has had planned. For Cameron, it\u2019s a sig\u2026",
+            "url": "https://gizmodo.com/avatar-way-of-water-james-cameron-theatrical-streaming-1849974846",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/50ebf83dc2455ad6b21ca052cd185e9b.jpg",
+            "publishedAt": "2023-01-11T19:00:00Z",
+            "content": "Good news for James Cameron and giant blue cat-people aficionados alike: The Way of Water, the Avatar sequel, has made more than $1.7 billion and counting, paving the way for those three additional s\u2026 [+2288 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "Super Nintendo World Is the Closest You'll Get to Stepping Into a Video Game",
+            "description": "Despite what you may have seen in films like Tron or Jumanji, it\u2019s impossible for humans to jump from their couches into a video game. Or, at least, it was. That\u2019s the experience Universal and Nintendo are hoping to recreate with Super Nintendo World, the bra\u2026",
+            "url": "https://gizmodo.com/super-nintendo-world-universal-studios-hollywood-mario-1849965867",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/b551805645c1f0abe669210cab1aff15.jpg",
+            "publishedAt": "2023-01-10T17:50:00Z",
+            "content": "Despite what you may have seen in films like Tron or Jumanji, its impossible for humans to jump from their couches into a video game. Or, at least, it was. Thats the experience Universal and Nintendo\u2026 [+8519 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Bobby Hull: Winnipegger and former teammate shares memories | CTV News - CTV News Winnipeg",
+            "description": "<ol><li>Bobby Hull: Winnipegger and former teammate shares memories | CTV News\u00a0\u00a0CTV News Winnipeg\r\n</li><li>Bobby Hull dead at 84 | Looking back at the Hockey Hall of Famer's troubled legacy\u00a0\u00a0CTV News\r\n</li><li>Bobby Hull, the first NHLer to score over 50 goa\u2026",
+            "url": "https://winnipeg.ctvnews.ca/just-incredible-winnipegger-and-former-teammate-remembers-bobby-hull-1.6252634",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/30/bobby-hull-1-6252638-1675120799540.jpeg",
+            "publishedAt": "2023-01-30T23:20:00Z",
+            "content": "Without Bobby Hull, the Winnipeg Jets wouldnt be in the NHL right now. Thats how one of his former teammates feels about the late Jets forward.\r\nHull passed away on Monday at the age of 84 and he is \u2026 [+2664 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tsn.ca"
+            },
+            "author": "TSN.ca Staff",
+            "title": "Canada beats United States World Juniors semifinals Connor Bedard - TSN",
+            "description": "<ol><li>Canada beats United States World Juniors semifinals Connor Bedard\u00a0\u00a0TSN\r\n</li><li>Canada-USA WJC Live Blog: Thomas Milic standing tall for Canadians\u00a0\u00a0Sportsnet.ca\r\n</li><li>Canada vs. USA final score, results: Thomas Milic leads Canadians to World Juni\u2026",
+            "url": "https://www.tsn.ca/world-juniors/canada-beats-united-states-world-juniors-semifinals-connor-bedard-1.1901758",
+            "urlToImage": "https://www.tsn.ca/content/dam/tsn/en/home/images/2023/1/4/team-canada-celebrates-1-1901759-1672883103182.jpeg",
+            "publishedAt": "2023-01-05T02:25:24Z",
+            "content": "For the second time in just under five months, Canada will play for the World Junior Championship gold medal.\r\nConnor Bedard scored yet again and added an assist\u00a0as Canada defeated the United States \u2026 [+3640 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sportsnet.ca"
+            },
+            "author": "Jason Bukala",
+            "title": "Scout's Analysis: Breaking down the Canada-USA WJC semifinal game - Sportsnet.ca",
+            "description": "<ol><li>Scout's Analysis: Breaking down the Canada-USA WJC semifinal game\u00a0\u00a0Sportsnet.ca\r\n</li><li>'The biggest rivalry': Bedard, Canada set for world junior semifinal against U.S.\u00a0\u00a0CBC Sports\r\n</li><li>Mark Masters: 'Heavy-duty hockey' expected as Canada meet\u2026",
+            "url": "https://www.sportsnet.ca/world-juniors/article/scouts-analysis-breaking-down-the-canada-usa-wjc-semifinal-game/",
+            "urlToImage": null,
+            "publishedAt": "2023-01-04T18:24:00Z",
+            "content": "Its semifinal day at the WJC in Halifax and the city is buzzing. If someone is looking for a pair of last-minute tickets to the sold out game, it will cost them upwards of $2,500 for two seats in the\u2026 [+4646 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tsn.ca"
+            },
+            "author": "The Canadian Press",
+            "title": "Chaz Lucius hat trick United States beat Sweden overtime bronze medal World Juniors - TSN",
+            "description": "<ol><li>Chaz Lucius hat trick United States beat Sweden overtime bronze medal World Juniors\u00a0\u00a0TSN\r\n</li><li>Kulich's OT goal puts Czechia into final\u00a0\u00a0IIHF\r\n</li><li>2023 World Juniors Bronze Medal Game: USA vs SWE \u2014 Lineups & start time\u00a0\u00a0Habs Eyes on the Prize\u2026",
+            "url": "https://www.tsn.ca/world-juniors/chaz-lucius-hat-trick-united-states-beat-sweden-overtime-bronze-medal-world-juniors-1.1902128",
+            "urlToImage": "https://www.tsn.ca/content/dam/tsn/en/home/images/2023/1/5/united-states-celebrate-1-1902130-1672954797211.jpeg",
+            "publishedAt": "2023-01-05T22:13:48Z",
+            "content": "HALIFAX Chaz Lucius completed a hat trick in overtime as the United States beat Sweden 8-7 in a wild bronze-medal game at the world junior hockey championship.\r\nThe Winnipeg Jets prospect scored into\u2026 [+900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Ukraine news: Putin orders 36-hour ceasefire - CTV News",
+            "description": "Russian President Vladimir Putin on Thursday ordered Moscow's armed forces to hold a 36-hour ceasefire in Ukraine this weekend for the Russian Orthodox Christmas holiday, the Kremlin said.",
+            "url": "https://www.ctvnews.ca/world/putin-orders-weekend-truce-in-ukraine-kyiv-won-t-take-part-1.6218627",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/5/vladimir-putin-1-6218737-1672934499660.jpg",
+            "publishedAt": "2023-01-05T14:57:00Z",
+            "content": "KYIV, Ukraine - \r\nRussian President Vladimir Putin on Thursday ordered his armed forces to observe a unilateral 36-hour cease-fire in Ukraine this weekend for the Orthodox Christmas holiday, the firs\u2026 [+7493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Tara Conlan",
+            "title": "Stars miss out as BBC names anchors for merged news channel",
+            "description": "Warning of possible ageism row as Jane Hill and Martine Croxall among those omitted from lineupSome of the BBC News Channel\u2019s most famous faces, including Jane Hill, Ben Brown and Martine Croxall, have been axed before the launch this spring of a channel that\u2026",
+            "url": "https://www.theguardian.com/media/2023/feb/02/stars-miss-out-as-bbc-names-anchors-for-merged-news-channel",
+            "urlToImage": "https://i.guim.co.uk/img/media/9c3859c763deedcf7fd76251e3251c614428aa9f/0_106_1600_960/master/1600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a6db2e0eab7eecbd7d9a3fc94f357ae6",
+            "publishedAt": "2023-02-02T17:39:33Z",
+            "content": "Some of the BBC News Channels most famous faces, including Jane Hill, Ben Brown and Martine Croxall, have been axed before the launch this spring of a channel that combines international and domestic\u2026 [+2806 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Quiz of the week: What was Cristiano Ronaldo's off-field own goal?",
+            "description": "How closely have you been paying attention to what's been going on over the past seven days?",
+            "url": "https://www.bbc.co.uk/news/world-64170357",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B22A/production/_128201654_rondex.jpg",
+            "publishedAt": "2023-01-05T16:37:38Z",
+            "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days?\r\nIf you cannot see the quiz, follow this link. \r\nTry last week's \u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ashley Strickland, Jackie Wattles",
+            "title": "Space missions to watch for in 2023",
+            "description": "In 2023, NASA will send a spacecraft to a metal world, samples from an asteroid will be dropped off on Earth, the Artemis II astronauts will be selected, and several new commercial rockets could make their launch debut.",
+            "url": "https://www.cnn.com/2023/01/05/world/space-missions-2023-scn/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220519191436-36-week-in-photos-0519.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-01-05T09:17:22Z",
+            "content": "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nThis year promises to be out of this world when it com\u2026 [+8497 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Quiz of the week: Michael Jackson's biopic will star which relative?",
+            "description": "How closely have you been paying attention to what's been going on over the past seven days?",
+            "url": "https://www.bbc.co.uk/news/world-64471223",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1CB3/production/_128474370_jacko.jpg",
+            "publishedAt": "2023-02-02T16:45:49Z",
+            "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days?\r\nIf you cannot see the quiz, follow this link. \r\nTry last week's \u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Australia helicopter collision: Passenger tapped pilot before crash, footage shows",
+            "description": "A survivor of a deadly helicopter collision in Australia is seen apparently trying to warn a pilot.",
+            "url": "https://www.bbc.co.uk/news/world-australia-64171191",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93BB/production/_128191873_f3800a5eba0df5831e97c76f0ba21bb4a7bb4c240_0_4103_27351000x667.jpg",
+            "publishedAt": "2023-01-05T04:23:44Z",
+            "content": "A survivor of a deadly helicopter collision in Australia had tried to warn a pilot of impending danger, a video appears to show.\r\nIn the footage, a passenger in the backseat of the aircraft is seen t\u2026 [+1097 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Quiz of the week: What got cut from Apple boss's pay packet?",
+            "description": "How closely have you been paying attention to what's been going on over the past seven days?",
+            "url": "https://www.bbc.co.uk/news/world-64319567",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B936/production/_128341474_cookpromoepas.jpg",
+            "publishedAt": "2023-01-19T16:14:35Z",
+            "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days?\r\nIf you cannot see the quiz, follow this link. \r\nTry last week's \u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Spun"
+            },
+            "author": "Andrew McCarty",
+            "title": "Sports World Is Saddened By The Usain Bolt Update - The Spun",
+            "description": "<ol><li>Sports World Is Saddened By The Usain Bolt Update\u00a0\u00a0The Spun\r\n</li><li>Usain Bolt missing US$12.7M from his account, his lawyers say\u00a0\u00a0CTV News\r\n</li><li>Usain Bolt seeks missing $12.7M from Jamaica investment firm\u00a0\u00a0Toronto Sun\r\n</li><li>Usain Bolt's la\u2026",
+            "url": "https://thespun.com/more/top-stories/sports-world-is-saddened-by-the-usain-bolt-update",
+            "urlToImage": "https://thespun.com/.image/t_share/MTgzMTI4MjYyMDU3NjY1ODg4/usain-bolt.jpg",
+            "publishedAt": "2023-01-17T22:50:59Z",
+            "content": "RIO DE JANEIRO, BRAZIL - AUGUST 19: Usain Bolt of Jamaica celebrates winning the Men's 4 x 100m Relay Final on Day 14 of the Rio 2016 Olympic Games at the Olympic Stadium on August 19, 2016 in Rio de\u2026 [+1123 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Www.tsn.ca"
+            },
+            "author": "The Canadian Press",
+            "title": "Arianne Leblanc Caitlin Kraemer lead Canada past Finland at women's under-18 world championship - TSN",
+            "description": "<ol><li>Arianne Leblanc Caitlin Kraemer lead Canada past Finland at women's under-18 world championship\u00a0\u00a0TSN\r\n</li><li>U18 Women's Worlds Preview: Canada vs. Finland\u00a0\u00a0Hockey Canada\r\n</li><li>Eight O Canada\u00a0\u00a0IIHF\r\n</li><li>Women's U-18 World Championship Day 1\u2026",
+            "url": "https://www.tsn.ca/hockey-canada/arianne-leblanc-caitlin-kraemer-lead-canada-past-finland-at-women-s-under-18-world-championship-1.1903362",
+            "urlToImage": "https://www.tsn.ca/content/dam/tsn/en/home/images/2023/1/8/canada-vs--finland---under-18-women-s-hockey-championship-1-1903446-1673227081876.jpeg",
+            "publishedAt": "2023-01-08T22:39:01Z",
+            "content": "\u00d6STERSUND, Sweden Arianne Leblanc stopped all nine shots she faced as Canada shut out Finland 8-0 on Sunday at the women's under-18 world hockey championship.\r\nCaitlin Kraemer scored twice in the fir\u2026 [+648 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Castanet.net"
+            },
+            "author": null,
+            "title": "Big Canadian names in film and TV miss out on hardware at Golden Globes - World News - Castanet.net",
+            "description": "<ol><li>Big Canadian names in film and TV miss out on hardware at Golden Globes - World News\u00a0\u00a0Castanet.net\r\n</li><li>James Cameron Predicts When Avatar 3 Will Release (Exclusive)\u00a0\u00a0Entertainment Tonight\r\n</li><li>Famed Niagara Falls film-maker up for a 'Best D\u2026",
+            "url": "https://www.castanet.net/news/World/405610/Big-Canadian-names-in-film-and-TV-miss-out-on-hardware-at-Golden-Globes",
+            "urlToImage": "https://www.castanet.net/content/2023/1/20230109170112-595da92e12bde601e1ed23dc8061a8da36e0c3f3650753af61576e2b85e06ded_p3650115.jpg",
+            "publishedAt": "2023-01-11T05:03:00Z",
+            "content": "Several big Canadian names walked away empty-handed at the Golden Globes Tuesday night as the film and TV awards made a return after a year off the air.\r\nFamed Ontario-born filmmaker James Cameron lo\u2026 [+1834 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "China Covid: Celebrity deaths spark fears over death toll",
+            "description": "News of public figures' deaths has sparked speculation about greater losses than officials have reported.",
+            "url": "https://www.bbc.co.uk/news/world-asia-china-64173824",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CBB6/production/_128205125_mediaitem128202846.jpg",
+            "publishedAt": "2023-01-05T10:27:29Z",
+            "content": "The growing number of Chinese public figures whose deaths are being made public is prompting people to question the official Covid death toll.\r\nThe death of Chu Lanlan, a 40-year-old opera singer, la\u2026 [+4212 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Justine Calma",
+            "title": "We are now 90 seconds to our doom",
+            "description": "The Doomsday Clock is now set at 90 seconds to midnight after The Bulletin of the Atomic Scientists weighed the war in Ukraine, nuclear proliferation, disinformation campaigns, and climate change.",
+            "url": "https://www.theverge.com/2023/1/24/23569012/doomsday-clock-90-seconds-midnight-ukraine-war-climate-change-disinformation",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/bXsD-YFjVWaf7DGa1lawPMn_6jg=/0x0:1600x1145/1200x628/filters:focal(800x573:801x574)/cdn.vox-cdn.com/uploads/chorus_asset/file/24382237/1237720921.jpg",
+            "publishedAt": "2023-01-24T15:38:37Z",
+            "content": "Dr. Leonard Rieser, chairman of the board of the Bulletin of the Atomic Scientists, moves the hand of the Doomsday Clock back to 17 minutes before midnight at offices near the University of Chicago o\u2026 [+2807 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "INSIDER"
+            },
+            "author": "Katie Balevic",
+            "title": "NASA satellite released by Sally Ride will crash land this weekend - Insider",
+            "description": "<ol><li>NASA satellite released by Sally Ride will crash land this weekend\u00a0\u00a0Insider\r\n</li><li>Old NASA satellite falling from sky this weekend, low threat - World News\u00a0\u00a0Castanet.net\r\n</li><li>Decades-old NASA satellite due to re-enter atmosphere, low threat\u00a0\u00a0\u2026",
+            "url": "https://www.insider.com/nasa-satellite-sent-space-sally-ride-will-return-this-weekend-2023-1",
+            "urlToImage": "https://i.insider.com/63b9b2e7d1c5130019f9824d?width=1200&format=jpeg",
+            "publishedAt": "2023-01-07T18:50:16Z",
+            "content": "A satellite that's been in orbit since the 1980s is expected to return to Earth on Sunday night, NASA announced, noting that the chance of being struck by falling debris is \"very low.\"\r\nMost pieces o\u2026 [+1573 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "World Athletics' Coe praises Kenyan response to doping - Reuters",
+            "description": "World Athletics President Sebastian Coe on Thursday praised Kenya's commitment to addressing doping after several positive tests for banned substances.",
+            "url": "https://www.reuters.com/lifestyle/sports/world-athletics-coe-praises-kenyan-response-doping-2023-01-05/",
+            "urlToImage": "https://www.reuters.com/resizer/WdNQqN4pned6Mdqj-s6zX3ZvKT8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MOAAV7T7BBIPVGISMCTKPFC3OU.jpg",
+            "publishedAt": "2023-01-05T14:17:00Z",
+            "content": "NAIROBI, Jan 5 (Reuters) - World Athletics President Sebastian Coe on Thursday praised Kenya's commitment to addressing doping after several positive tests for banned substances.\r\nThe middle and long\u2026 [+2149 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Damar Hamlin: Recovery continues, still in critical condition - CTV News",
+            "description": "<ol><li>Damar Hamlin: Recovery continues, still in critical condition\u00a0\u00a0CTV News\r\n</li><li>'The love has been overwhelming': Bills safety Hamlin makes 1st public comments since cardiac arrest\u00a0\u00a0CBC Sports\r\n</li><li>Only the NFL can turn the near-death incident \u2026",
+            "url": "https://www.ctvnews.ca/sports/damar-hamlin-still-critical-continues-recovery-tweets-thanks-1.6221658",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/7/damar-hamlin-1-6221751-1673123053348.jpg",
+            "publishedAt": "2023-01-07T17:46:00Z",
+            "content": "ORCHARD PARK, N.Y. - \r\nDoctors described Damar Hamlin's neurological function as \"excellent\" Saturday, as the Buffalo Bills safety continued making progress in his recovery after having to be resusci\u2026 [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Vanessa Thorpe, Arts and Media Correspondent",
+            "title": "Can BBC radio thrive in a new world of podcasts?",
+            "description": "The loss of Ken Bruce, following other big-name DJs, is a blow for Radio 2. The challenge now is to stay relevantNo one will win the top prize choice of bluetooth headphones or a smart speaker for simply knowing which Radio 2 DJ\u2019s show has featured the Popmas\u2026",
+            "url": "https://www.theguardian.com/media/2023/jan/22/can-bbc-radio-thrive-in-a-new-world-of-podcasts",
+            "urlToImage": "https://i.guim.co.uk/img/media/5cad7835c9d00d31114b33fe1616549dc93c12f1/0_248_7360_4415/master/7360.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=2884530902f7767ca639353630851b52",
+            "publishedAt": "2023-01-22T12:00:36Z",
+            "content": "No one will win the top prize choice of bluetooth headphones or a smart speaker for simply knowing which Radio 2 DJs show has featured the Popmaster slot for 25 years. But the popular music quiz, lik\u2026 [+7959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Reuters",
+            "title": "Cristiano Ronaldo deal not dependent on World Cup bid role, insist Al Nassr",
+            "description": "<ul><li>Saudi Arabia bidding to host 2030 World Cup</li><li>Contract \u2018does not entail commitments\u2019 to bid</li></ul>The Saudi Arabian club Al Nassr have denied reports that Cristiano Ronaldo has a clause in his contract under which the Portugal forward is to s\u2026",
+            "url": "https://www.theguardian.com/football/2023/jan/11/cristiano-ronaldo-deal-not-dependent-on-world-cup-bid-role-insist-al-nassr",
+            "urlToImage": "https://i.guim.co.uk/img/media/c8f234d897f23c170451f3a0aff6aafd9619442c/0_245_3669_2201/master/3669.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0ffbbdfcbd9689dc69d5bdd47b142992",
+            "publishedAt": "2023-01-11T09:58:22Z",
+            "content": "The Saudi Arabian club Al Nassr have denied reports that Cristiano Ronaldo has a clause in his contract under which the Portugal forward is to serve as an ambassador for the Gulf countrys 2030 World \u2026 [+1353 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Quiz of the week: What was said about Doja Cat's Paris look?",
+            "description": "How closely have you been paying attention to what's been going on over the past seven days?",
+            "url": "https://www.bbc.co.uk/news/world-64401053",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1B96/production/_128426070_gettyimages-1458723828.jpg",
+            "publishedAt": "2023-01-26T15:40:34Z",
+            "content": "It's the weekly news quiz - how closely have you been paying attention to what's been going on in the world over the past seven days?\r\nIf you cannot see the quiz, follow this link. \r\nTry last week's \u2026 [+110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Cheryl Eddy",
+            "title": "Star Trek: Picard Season 3 Might Not Be the End of Picard After All, Maybe, Perhaps",
+            "description": "Star Trek: Picard was represented at the Paramount+ event for the Television Critics\u2019 Association today, but not much news was shared about the series\u2014unsurprisingly, since it kicks off its third and final season next month. Or does it? Despite what it clearl\u2026",
+            "url": "https://gizmodo.com/patrick-stewart-star-trek-picard-season-3-finale-or-not-1849967542",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/3a47bcbd46393a1b7707afa26723ad55.jpg",
+            "publishedAt": "2023-01-09T23:30:00Z",
+            "content": "Star Trek: Picard was represented at the Paramount+ event for the Television Critics Association today, but not much news was shared about the seriesunsurprisingly, since it kicks off its third and f\u2026 [+1886 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Prince Harry's book 'fastest-selling non-fiction book ever' - Sky News - Reuters",
+            "description": "Prince Harry's memoir \"Spare\" is the fastest-selling non-fiction book ever, Sky News reported on Tuesday citing the publisher, saying it had recorded a sales figure of 400,000 copies so far across hardback, ebook and audio formats.",
+            "url": "https://www.reuters.com/world/uk/prince-harrys-book-fastest-selling-non-fiction-book-ever-sky-news-2023-01-10/",
+            "urlToImage": "https://www.reuters.com/resizer/FRImiSanj79nBH_XAsVHo-Joheg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BRO2UMP4GFISDEMX4JFWBY67BA.jpg",
+            "publishedAt": "2023-01-10T17:13:00Z",
+            "content": "LONDON, Jan 10 (Reuters) - Prince Harry's memoir \"Spare\" is the fastest-selling non-fiction book ever, Sky News reported on Tuesday citing the publisher, saying it had recorded a sales figure of 400,\u2026 [+904 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Diamond of pro-Trump duo Diamond and Silk dies",
+            "description": "Donald Trump mourns the death of Lynette Hardaway, one half of commentators Diamond and Silk.",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-64222475",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A7E8/production/_128248924_diamond_getty.jpg",
+            "publishedAt": "2023-01-10T12:39:53Z",
+            "content": "Lynette Hardaway, Diamond of the pro-Trump commentators Diamond and Silk, has died aged 51.\r\n\"Really bad news for Republicans and, frankly, all Americans,\" Mr Trump wrote on his Truth Social platform\u2026 [+941 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Ontario intends to appeal certification allowing class action over COVID LTC deaths | CTV News - CTV News Toronto",
+            "description": "<ol><li>Ontario intends to appeal certification allowing class action over COVID LTC deaths | CTV News\u00a0\u00a0CTV News Toronto\r\n</li><li>Judge allows class action against Ford government on COVID-19 long-term care deaths\u00a0\u00a0CP24\r\n</li><li>View Full Coverage on Google\u2026",
+            "url": "https://toronto.ctvnews.ca/judge-allows-class-action-against-ford-government-on-covid-19-long-term-care-deaths-1.6226549",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2020/10/23/long-term-care-1-5157860-1649087627394.jpg",
+            "publishedAt": "2023-01-11T19:40:00Z",
+            "content": "A proposed class action against the Ontario government alleging gross negligence in preventing COVID-19 long-term care deaths and serious infection may be able to proceed to trial, pending a possible\u2026 [+4033 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Arrow Lakes News"
+            },
+            "author": "Wire Service",
+            "title": "Life and style with Brandon Knorr, Owner / Operator, AEC Contracting Ltd - Arrow Lakes News - Arrow Lakes News",
+            "description": "<ol><li>Life and style with Brandon Knorr, Owner / Operator, AEC Contracting Ltd - Arrow Lakes News\u00a0\u00a0Arrow Lakes News\r\n</li><li>Life and style with Brandon Knorr, Owner / Operator, AEC Contracting Ltd - Salmon Arm Observer\u00a0\u00a0Salmon Arm Observer\r\n</li><li>View \u2026",
+            "url": "https://www.arrowlakesnews.com/life/life-and-style-with-brandon-knorr-owner-operator-aec-contracting-ltd/",
+            "urlToImage": "https://www.arrowlakesnews.com/wp-content/uploads/2023/01/31659522_web1_230130-BLVD-BrandonKnorr-Business_1.jpg",
+            "publishedAt": "2023-01-30T15:30:00Z",
+            "content": "\u2013 Words and photography by Lia Crowe\r\nI\u2019m a little old-fashioned, and I believe a handshake is still a powerful thing,\u201d Brandon tells me when I ask him to tell me his best life lesson.\r\nBorn and rais\u2026 [+2532 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Australia coach Arnold to stay on through 2026 World Cup, reports say - Reuters",
+            "description": "Australia coach Graham Arnold is set to sign a new deal to stay in the job until the end of the 2026 World Cup in North America, local media reported on Monday.",
+            "url": "https://www.reuters.com/lifestyle/sports/australia-coach-arnold-stay-through-2026-world-cup-reports-2023-01-29/",
+            "urlToImage": "https://www.reuters.com/resizer/YeWH3suh2W53bAsrVU7wtzZ3yDs=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Z55ATK2TT5JF7ODZG6LBTC5R2Q.jpg",
+            "publishedAt": "2023-01-29T23:44:00Z",
+            "content": "SYDNEY, Jan 30 (Reuters) - Australia coach Graham Arnold is set to sign a new deal to stay in the job until the end of the 2026 World Cup in North America, local media reported on Monday.\r\nArnold led\u2026 [+520 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Messina Denaro was never 'sole' leader of Sicilian Mafia - prosecutor - Reuters",
+            "description": "Matteo <a href=\"/world/europe/years-cat-and-mouse-end-top-mafioso-cornered-italian-clinic-2023-01-16/\">Messina Denaro</a>, the Italian mobster <a href=\"/world/europe/italian-police-arrest-most-wanted-mafia-boss-matteo-messina-denaro-media-2023-01-16/\">arreste\u2026",
+            "url": "https://www.reuters.com/world/europe/messina-denaro-was-never-sole-leader-sicilian-mafia-prosecutor-2023-01-16/",
+            "urlToImage": "https://www.reuters.com/resizer/MCApWBFOLnAz1oUSD80kV0F9bPM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EAH5X2APLBN5JBASSDMPNQ6U4Q.jpg",
+            "publishedAt": "2023-01-16T17:45:00Z",
+            "content": "PALERMO, Italy, Jan 16 (Reuters) - Matteo Messina Denaro, the Italian mobster arrested after 30 years on the run, was \"never\" the sole leader of the Sicilian Mafia, the chief prosecutor of Palermo Ma\u2026 [+529 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "BEST OF CONNOR BEDARD | 2023 IIHF WORLD JUNIORS - TSN",
+            "description": "<ol><li>BEST OF CONNOR BEDARD | 2023 IIHF WORLD JUNIORS\u00a0\u00a0TSN\r\n</li><li>Scout\u2019s Analysis: How good can Connor Bedard be in the NHL?\u00a0\u00a0Sportsnet.ca\r\n</li><li>Connor Bedard has lived up to the hype and is the NHL's next big thing\u00a0\u00a0The Globe and Mail\r\n</li><li>Tan\u2026",
+            "url": "https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DBFVSgkJUwD0",
+            "urlToImage": null,
+            "publishedAt": "2023-01-06T15:59:39Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Mexico arrests a son of 'El Chapo' ahead of Biden, Trudeau visit - CTV News",
+            "description": "<ol><li>Mexico arrests a son of 'El Chapo' ahead of Biden, Trudeau visit\u00a0\u00a0CTV News\r\n</li><li>Mexican city erupts in violence, residents ordered to stay indoors after drug cartel leader's arrest\u00a0\u00a0CBC.ca\r\n</li><li>Mexico arrests a son of 'El Chapo' ahead of Bid\u2026",
+            "url": "https://www.ctvnews.ca/world/mexico-arrests-a-son-of-el-chapo-ahead-of-biden-trudeau-visit-1.6218906",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/5/ovidio-guzman-lopez-1-6219117-1672947244102.jpg",
+            "publishedAt": "2023-01-05T22:08:44Z",
+            "content": "MEXICO CITY - \r\nMexican security forces captured Ovidio Guzman, an alleged drug trafficker wanted by the United States and one of the sons of former Sinaloa cartel boss Joaquin \"El Chapo\" Guzman, in \u2026 [+6474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Australian Associated Press",
+            "title": "Ash Barty announces on Instagram she is pregnant",
+            "description": "<ul><li>Former world No 1 says \u20182023 set to be the best year yet\u2019</li><li>Barty retired after winning the 2022 Australian Open</li></ul>Former world No 1 Ash Barty has announced she is pregnant with her first child.The tennis champion retired after last year\u2019\u2026",
+            "url": "https://www.theguardian.com/sport/2023/jan/06/ash-barty-announces-on-instagram-she-is-pregnant",
+            "urlToImage": "https://i.guim.co.uk/img/media/bd42477fa9ec43436ee550317ca6609f796142dc/0_53_4548_2730/master/4548.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f93713614447f47eaaa2f05afa190183",
+            "publishedAt": "2023-01-06T11:05:13Z",
+            "content": "Former world No 1 Ash Barty has announced she is pregnant with her first child.\r\nThe tennis champion retired after last years Australian Open and will not defend her crown in Melbourne later this mon\u2026 [+929 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Jones returns to his roots to issue clarion call for Australian game - Reuters",
+            "description": "Eddie Jones returned to his roots on Tuesday for his first formal news conference since being reappointed Wallabies coach and issued a call for the whole of Australian rugby to \"roll their sleeves up\" and help revitalise the game.",
+            "url": "https://www.reuters.com/lifestyle/sports/jones-returns-his-roots-issue-clarion-call-australian-game-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/V39j3JdaMo5kYUY9yW1TvQ1xNAE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AGO3OVEQHFI7NMWAJS5VPFGXL4.jpg",
+            "publishedAt": "2023-01-31T03:29:00Z",
+            "content": "SYDNEY, Jan 31 (Reuters) - Eddie Jones returned to his roots on Tuesday for his first formal news conference since being reappointed Wallabies coach and issued a call for the whole of Australian rugb\u2026 [+2955 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Column: Is Brazil another BRIC in the wall? - Reuters",
+            "description": "Almost as surprising as the weekend's <a href=\"/world/americas/bolsonaro-supporters-invade-congress-presidential-palace-brasilia-2023-01-08/\">shock events in Brasilia</a> was how little world markets appeared to react - showing investors may already be braced\u2026",
+            "url": "https://www.reuters.com/markets/is-brazil-another-bric-wall-mike-dolan-2023-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/Xs-wbD8YTvUgyveTPAVzXc5chLA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CU4MCA2VBNOD5EH4TWEW7EINNU.jpg",
+            "publishedAt": "2023-01-11T09:28:00Z",
+            "content": "LONDON, Jan 11 (Reuters) - Almost as surprising as the weekend's shock events in Brasilia was how little world markets appeared to react - showing investors may already be braced for an era of more v\u2026 [+5840 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Anthony Kalulu in Namisita",
+            "title": "I have seen how top-down solutions condemn the world\u2019s poorest to eternal poverty | Anthony Kalulu",
+            "description": "A western-led approach has failed to remedy the problem. Maybe, post-pandemic, a new focus on the poor is needed In 2020, many people said the world must not \u201cgo back to normal\u201d, to the same old ways that defined it before the Covid pandemic. The Overseas Dev\u2026",
+            "url": "https://www.theguardian.com/global-development/2023/jan/13/top-down-solutions-poor-poverty-solutions-covid",
+            "urlToImage": "https://i.guim.co.uk/img/media/af4eaf8e8797b991c6450c05511da9d0fa8e2915/0_70_6720_4032/master/6720.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=8ebf836f47ed7c5749844c2e99d5af43",
+            "publishedAt": "2023-01-13T07:15:08Z",
+            "content": "In 2020, many people said the world must not go back to normal, to the same old ways that defined it before the Covid pandemic. The Overseas Development Institute, a UK-based thinktank, even said nor\u2026 [+7375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Stephanie Convery Inequality reporter",
+            "title": "Australian billionaires pocketed $150,000 a minute over past decade, Oxfam research finds",
+            "description": "Report calls for higher taxes for the super-rich as analysis reveals an Australian wealth tax could raise $29.1bn annually<ul><li>Get our morning and afternoon news emails, free app or daily news podcast</li></ul>Australia\u2019s billionaires are 61% richer than t\u2026",
+            "url": "https://www.theguardian.com/australia-news/2023/jan/16/australian-billionaires-pocketed-150000-a-minute-over-past-decade-oxfam-research-finds",
+            "urlToImage": "https://i.guim.co.uk/img/media/ace013eca36a88198f75c7539b8871945bd91314/0_889_4519_2711/master/4519.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e205cb4dd0b3053887785ef90f3681c5",
+            "publishedAt": "2023-01-16T00:00:27Z",
+            "content": "Australias billionaires are 61% richer than they were before the pandemic and have pocketed $150,000 a minute over the past decade, according to new analysis by Oxfam Australia.\r\nThe analysis was rel\u2026 [+3032 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Linda Codega",
+            "title": "Tanya DePass on Bringing The Fifth Season to the Gaming Table",
+            "description": "N.K. Jemisin made history when her trilogy of books\u2014The Fifth Season, The Obelisk Gate, and The Stone Sky\u2014each won the Hugo Award for Best Novel in the year of its release. After a few delays, the world of the Broken Earth trilogy is finally coming to a rolep\u2026",
+            "url": "https://gizmodo.com/fifth-season-rpg-nk-jemisin-tanya-depass-green-ronin-1850018440",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/2363d79324f90ef9ab3f042f1fb6bb6d.png",
+            "publishedAt": "2023-01-24T21:45:00Z",
+            "content": "N.K. Jemisin made history when her trilogy of booksThe Fifth Season, The Obelisk Gate, and The Stone Skyeach won the Hugo Award for Best Novel in the year of its release. After a few delays, the worl\u2026 [+9465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Germain Lussier",
+            "title": "The Willow Finale Brought It All Together and We Still Want More",
+            "description": "The first season of Willow is over and the first thing to say is \u201cI want more.\u201d While the final episode brought this season\u2019s stories together in a completely satisfying, entertaining way, the lore of this franchise and world is so vast that even without this\u2026",
+            "url": "https://gizmodo.com/willow-ep-8-recap-children-of-the-wyrm-season-finale-1849975195",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/4a08de570af9b9bfb9641876eb8b8da9.jpg",
+            "publishedAt": "2023-01-11T20:30:00Z",
+            "content": "The first season of Willow is over and the first thing to say is I want more. While the final episode brought this seasons stories together in a completely satisfying, entertaining way, the lore of t\u2026 [+9277 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Linda Codega",
+            "title": "Dungeons & Dragons Quietly Announces a New Anthology",
+            "description": "Today Dungeons & Dragons, a subsidiary of Wizards of the Coast, announced the next book in its quarterly publishing schedule: a heist-themed adventure anthology titled Keys From the Golden Vault. The book has been in production for years, and while its releas\u2026",
+            "url": "https://gizmodo.com/dungeons-dragons-new-anthology-wizards-of-the-coast-1850030327",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/21c6b803df030e59c9f1b1d2ae0d15a5.png",
+            "publishedAt": "2023-01-25T18:05:00Z",
+            "content": "Today Dungeons &amp; Dragons, a subsidiary of Wizards of the Coast, announced the next book in its quarterly publishing schedule: a heist-themed adventure anthology titled Keys From the Golden Vault.\u2026 [+1616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "German caution 'generating impatience' with allies - CTV News",
+            "description": "<ol><li>German caution 'generating impatience' with allies\u00a0\u00a0CTV News\r\n</li><li>Germany stalls on tank decision despite urgent pleas from Ukraine\u00a0\u00a0CBC News\r\n</li><li>No Leopard tanks for Ukraine as NATO allies fail to agree\u00a0\u00a0Al Jazeera English\r\n</li><li>Leopar\u2026",
+            "url": "https://www.ctvnews.ca/world/german-caution-on-ukraine-arms-supply-rooted-in-political-culture-1.6240379",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/21/german-chancellor-olaf-scholz-1-6240384-1674306874453.jpg",
+            "publishedAt": "2023-01-21T13:18:27Z",
+            "content": "BERLIN - \r\nGermany has become one of Ukraine's leading weapons suppliers in the 11 months since Russia's invasion, but Chancellor Olaf Scholz also has gained a reputation for hesitating to take each \u2026 [+5548 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Will Shanklin",
+            "title": "DOJ says it disrupted a major global ransomware group",
+            "description": "The US Department of Justice has spent months infiltrating and disrupting the Hive ransomware group, the agency announced on Thursday. The DOJ says Hive has targeted over 1,500 victims in more than 80 countries, extorting hundreds of millions of dollars in ra\u2026",
+            "url": "https://www.engadget.com/hive-ransomware-doj-fbi-disruption-193249866.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/232326d0-9dae-11ed-9ffb-5a43ae373782",
+            "publishedAt": "2023-01-26T19:32:49Z",
+            "content": "The US Department of Justice has spent months infiltrating and disrupting the Hive ransomware group, the agency announced on Thursday. The DOJ says Hive has targeted over 1,500 victims in more than 8\u2026 [+2086 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Alexi Duggins, Hannah Verdier and Hollie Richardson",
+            "title": "Jon Snow swaps news broadcast for his \u2018Snowcast\u2019",
+            "description": "The giant of British journalism starts his post-Channel 4 career with his new interview show. Plus: five of the best podcasts for women in midlife<ul><li>Don\u2019t get Hear Here delivered to your inbox? Sign up here</li></ul>Want a captivating interview? You coul\u2026",
+            "url": "https://www.theguardian.com/tv-and-radio/2023/feb/02/hear-here-jon-snow-podcast-snowcast",
+            "urlToImage": "https://i.guim.co.uk/img/media/a4cd8a2825bc5d539e5ccdee46feac906469ad43/0_161_3425_2055/master/3425.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3337b90756d806e94935bf1e3f3e10c8",
+            "publishedAt": "2023-02-02T09:48:04Z",
+            "content": "Want a captivating interview? You could do far worse than pitting one journalist against another, then sitting back as the sparks fly. Next Tuesday, ex-Channel 4 News anchor Jon Snow launches a podca\u2026 [+7424 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Boing Boing"
+            },
+            "author": "Jason Weisberger",
+            "title": "Fox News: feminist M&Ms embolden China's mining industry",
+            "description": "It gets harder and harder for me to understand how people even manage to get outraged at what FOX News hosts say. Recently conservatives hated American Girl dolls, now the candy that melts in your mouth but not in your hands is evil. \u2014 Read the rest",
+            "url": "https://boingboing.net/2023/01/10/fox-news-feminist-mms-embolden-chinas-mining-industry.html",
+            "urlToImage": "https://i0.wp.com/boingboing.net/wp-content/uploads/2022/10/purple-scaled.jpeg?fit=1200%2C663&ssl=1",
+            "publishedAt": "2023-01-10T15:12:41Z",
+            "content": "It gets harder and harder for me to understand how people even manage to get outraged at what FOX News hosts say. Recently conservatives hated American Girl dolls, now the candy that melts in your mo\u2026 [+964 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Heather Chen, CNN",
+            "title": "It's now minus 50 in the world's coldest city",
+            "description": "Thought your winter was cold? Temperatures in the world's coldest city have plunged to minus 50 degrees Celsius (-58 Fahrenheit).",
+            "url": "https://www.cnn.com/travel/article/yakutsk-russia-cold-snap-freeze-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/230116143854-yakutsk-market-super-tease.jpg",
+            "publishedAt": "2023-01-16T08:05:44Z",
+            "content": "Thought your winter was cold? Temperatures in the world's coldest city have plunged to minus 50 degrees Celsius (-58 Fahrenheit). \r\nThe city of Yakutsk in east Siberia, widely identified as one of th\u2026 [+1153 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Insiderintelligence.com"
+            },
+            "author": "insider@insider.com (Jenna McNamee)",
+            "title": "Everything you may have missed in banking over the holiday break",
+            "description": "The news cycle slowed over the holiday season, but didn't stop entirely. We highlight the banking news that dropped during the holiday break.",
+            "url": "https://www.insiderintelligence.com/content/everything-you-missed-over-holiday-break",
+            "urlToImage": "https://www.insiderintelligence.com/content/storage/socialsharingdefault/default-image-share.png?im=FitAndFill,width=1200,height=630",
+            "publishedAt": "2023-01-04T16:28:43Z",
+            "content": "The news cycle slowed for a while as much of the business world took a break over the holiday season. But it didnt stop entirely. Here are a few useful things to know about that you may have missed:\r\u2026 [+4072 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Kenneth Rogoff",
+            "title": "The world economy faces a huge stress test in 2023 | Kenneth Rogoff",
+            "description": "With inflation on the rise and the era of ultra-low interest rates over, there could well be a systemic crisisThe fact that the world did not experience a systemic financial crisis in 2022 is a minor miracle, given the rise in inflation and interest rates, no\u2026",
+            "url": "https://www.theguardian.com/business/2023/jan/05/world-economy-stress-test-2023-inflation-interest-rates-crisis",
+            "urlToImage": "https://i.guim.co.uk/img/media/41b92a714531780ba178bd6081f1bfed3b550f70/0_0_5670_3402/master/5670.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=692ea9747805d83f84ecb87652455341",
+            "publishedAt": "2023-01-05T07:00:13Z",
+            "content": "The fact that the world did not experience a systemic financial crisis in 2022 is a minor miracle, given the rise in inflation and interest rates, not to mention a massive increase in geopolitical ri\u2026 [+5387 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ctvnews.ca"
+            },
+            "author": null,
+            "title": "Prince Harry's 'Spare' launches after weeks of hype - CTV News",
+            "description": "<ol><li>Prince Harry's 'Spare' launches after weeks of hype\u00a0\u00a0CTV News\r\n</li><li>Prince Harry promotes memoir in series of explosive interviews\u00a0\u00a0CBC News: The National\r\n</li><li>Harry is clearly traumatized, but he\u2019s sold out his family\u00a0\u00a0Toronto Star\r\n</li><li\u2026",
+            "url": "https://www.ctvnews.ca/entertainment/after-hype-readers-get-hands-on-prince-harry-s-spare-1.6225121",
+            "urlToImage": "https://www.ctvnews.ca/content/dam/ctvnews/en/images/2023/1/10/copies-of-prince-harry-s--spare--1-6225122-1673396203736.jpg",
+            "publishedAt": "2023-01-10T21:07:00Z",
+            "content": "LONDON - \r\nAfter weeks of hype and days of leaks, readers got a chance to judge Prince Harry's book for themselves when it went on sale around the world on Tuesday.\r\nThe book's publisher said \"Spare\"\u2026 [+3108 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Tom Davies",
+            "title": "FA Cup third round, transfer window news and more: weekend countdown \u2013 live",
+            "description": "<ul><li>Ten things to look out for the FA Cup third round</li><li>And you can mail Tom, tweet him or post BTL</li></ul>Some reaction to Vialli\u2019s death. Chelsea tweeted Chelsea \u201cYou\u2019ll be missed by so many. A legend to us and to all of football. Rest in peace,\u2026",
+            "url": "https://www.theguardian.com/football/live/2023/jan/06/fa-cup-third-round-transfer-window-news-and-more-football-countdown-live",
+            "urlToImage": "https://i.guim.co.uk/img/media/7a4ba55544e501f9ddbe748689546fc3922dfe2f/0_169_4744_2847/master/4744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=23183ddb6c205f306c49b5e0469f35ad",
+            "publishedAt": "2023-01-06T10:26:51Z",
+            "content": "Key events(2)Gianluca Vialli(3)\r\nChesterfield v West Brom is another of the weekends Cup ties to look out for two in-form sides off the pitch, in the National League and Championship respectively, in\u2026 [+2441 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Australian Associated Press",
+            "title": "Matildas coach dodges questions on Saudi Women\u2019s World Cup sponsorship",
+            "description": "<ul><li>Gustavsson says \u2018everyone knows values of this team\u2019</li><li>Media asked not to question players on sponsorship</li></ul>Matildas coach Tony Gustavsson has sidestepped the issue of Saudi Arabia\u2019s potential sponsorship of the Women\u2019s World Cup but sugg\u2026",
+            "url": "https://www.theguardian.com/football/2023/feb/02/matildas-name-strong-cup-of-nations-squad-with-eye-on-upcoming-womens-world-cup",
+            "urlToImage": "https://i.guim.co.uk/img/media/b8b2619f89a620d1d2376d2f7b79cb4a6ac1627c/0_53_2970_1782/master/2970.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=965d2ccb13a42074c34ebffc8d0ad5dc",
+            "publishedAt": "2023-02-02T02:59:23Z",
+            "content": "Matildas coach Tony Gustavsson has sidestepped the issue of Saudi Arabias potential sponsorship of the Womens World Cup but suggested his sides values do not align with those of the Middle Eastern ki\u2026 [+4571 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Robin McKie Science Editor",
+            "title": "\u2018Holy grail\u2019 wheat gene discovery could feed our overheated world",
+            "description": "Harvests that form a vital element of the diets of 4.5 billion people are being devastated by global heating. Now research has found a key to create a heat-resistant varietyIt is the plant that changed humanity. Thanks to the cultivation of wheat, homo sapien\u2026",
+            "url": "https://www.theguardian.com/environment/2023/jan/07/holy-grail-wheat-gene-discovery-could-feed-our-overheated-world",
+            "urlToImage": "https://i.guim.co.uk/img/media/67ecf632be4508d578fc3b19d3d35b586cac54ce/0_353_5332_3201/master/5332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdG8tZGVmYXVsdC5wbmc&enable=upscale&s=bb4648b63aaa6b0883b249a3d2f7639a",
+            "publishedAt": "2023-01-07T13:43:31Z",
+            "content": "It is the plant that changed humanity. Thanks to the cultivation of wheat, homo sapiens was able to feed itself in ever-increasing numbers, transforming groups of hunter-gatherers struggling to survi\u2026 [+5331 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ireland must relish top ranking in world rugby says Beirne - Reuters",
+            "description": "Ireland must learn to embrace the expectation and scrutiny that comes with being the top ranked rugby team in the world, experienced forward Tadhg Beirne said on Tuesday.",
+            "url": "https://www.reuters.com/lifestyle/sports/ireland-must-relish-top-ranking-world-rugby-says-beirne-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/s-w7AEZpP4L_GkSzDZpLWZ7WkC4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/D5KV4CO6PFLEPATQBDEL67XEPI.jpg",
+            "publishedAt": "2023-01-31T19:03:00Z",
+            "content": "Jan 31 (Reuters) - Ireland must learn to embrace the expectation and scrutiny that comes with being the top ranked rugby team in the world, experienced forward Tadhg Beirne said on Tuesday.\r\nIreland \u2026 [+2180 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Al Nassr say Ronaldo has no clause in contract to support Saudi ... - Reuters",
+            "description": "Saudi Arabian club Al Nassr have denied reports that Cristiano Ronaldo has a clause in his contract where the Portugal forward is to serve as an ambassador for the Gulf country's 2030 World Cup bid.",
+            "url": "https://www.reuters.com/lifestyle/sports/al-nassr-say-ronaldo-has-no-clause-contract-support-saudi-world-cup-bid-2023-01-11/",
+            "urlToImage": "https://www.reuters.com/resizer/nigU9rlehkEZ4ZWx-NDI4-Hk7U4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/Q7QWVURWCNJWVNJOSG45M43CBI.jpg",
+            "publishedAt": "2023-01-11T08:21:00Z",
+            "content": "Jan 11 (Reuters) - Saudi Arabian club Al Nassr have denied reports that Cristiano Ronaldo has a clause in his contract where the Portugal forward is to serve as an ambassador for the Gulf country's 2\u2026 [+1058 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Badosa, Tomljanovic out of Australian Open with injuries - Reuters",
+            "description": "Paula Badosa has pulled out of the Australian Open due to a right thigh injury sustained in a warm-up tournament in Adelaide, the world number 11 said on Saturday.",
+            "url": "https://www.reuters.com/lifestyle/sports/badosa-tomljanovic-out-australian-open-with-injuries-2023-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/wmE5dUwj5y8QCPgeC_dZvb-U_5U=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MJC7RHQLDFNVVM6O2QDURHVXJI.jpg",
+            "publishedAt": "2023-01-14T03:18:00Z",
+            "content": "MELBOURNE, Jan 14 (Reuters) - Paula Badosa has pulled out of the Australian Open due to a right thigh injury sustained in a warm-up tournament in Adelaide, the world number 11 said on Saturday.\r\nSpan\u2026 [+1054 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "New monument to Soviet leader Stalin unveiled ahead of WW2 ... - Reuters",
+            "description": "A new bust of Soviet leader Josef Stalin has been unveiled in Volgograd ahead of Wednesday's 80th anniversary of the Red Army's defeat of Nazi invaders in the bloodiest battle of World War Two.",
+            "url": "https://www.reuters.com/world/europe/new-monument-soviet-leader-stalin-unveiled-ahead-ww2-anniversary-2023-02-01/",
+            "urlToImage": "https://www.reuters.com/resizer/rVN_GfrhxiC0_ggDQzd07pkYsnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KC4XJQV4MZOWFEWLJZEMTAJFCY.jpg",
+            "publishedAt": "2023-02-01T17:14:00Z",
+            "content": "Feb 1 (Reuters) - A new bust of Soviet leader Josef Stalin has been unveiled in Volgograd ahead of Wednesday's 80th anniversary of the Red Army's defeat of Nazi invaders in the bloodiest battle of Wo\u2026 [+1332 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Premier League signs NFT deal with SoftBank-backed Sorare - Reuters",
+            "description": "The Premier League is partnering with French fantasy sports platform Sorare to sell non-fungible tokens (NFTs), a sign that the sporting world is continuing to embrace digital assets despite the rout in markets.",
+            "url": "https://www.reuters.com/technology/premier-league-signs-nft-deal-with-softbank-backed-sorare-2023-01-30/",
+            "urlToImage": "https://www.reuters.com/resizer/UihLoNri-L52uc7yRptCx26_97I=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/COKCTLMCXJJM5OZNJ7TPWSCJU4.jpg",
+            "publishedAt": "2023-01-30T12:13:00Z",
+            "content": "LONDON, Jan 30 (Reuters) - The Premier League is partnering with French fantasy sports platform Sorare to sell non-fungible tokens (NFTs), a sign that the sporting world is continuing to embrace digi\u2026 [+3016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters Fact Check",
+            "title": "Fact Check-World Economic Forum did not call for decriminalizing ... - Reuters.com",
+            "description": "The World Economic Forum (WEF) has never promoted the idea of decriminalizing pedophilia, a spokesperson told Reuters, but users online are sharing posts making that claim, which link to a website that has previously published false information and does not p\u2026",
+            "url": "https://www.reuters.com/article/factcheck-wef-pedophilia-decriminalizati-idUSL1N33U18N",
+            "urlToImage": "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800",
+            "publishedAt": "2023-01-09T15:44:00Z",
+            "content": "The World Economic Forum (WEF) has never promoted the idea of decriminalizing pedophilia, a spokesperson told Reuters, but users online are sharing posts making that claim, which link to a website th\u2026 [+1937 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "MLB players to join Cuba's team for World Baseball Classic - Reuters",
+            "description": "A handful of Major League Baseball players will join Cuba's team for the first time in the upcoming World Baseball Classic tournament, an unprecedented event, the sport's Cuban Federation said on Friday.",
+            "url": "https://www.reuters.com/lifestyle/sports/mlb-players-join-cubas-team-world-baseball-classic-2023-01-07/",
+            "urlToImage": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=125",
+            "publishedAt": "2023-01-07T02:57:00Z",
+            "content": "HAVANA, Jan 6 (Reuters) - A handful of Major League Baseball players will join Cuba's team for the first time in the upcoming World Baseball Classic tournament, an unprecedented event, the sport's Cu\u2026 [+1883 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "htan@insider.com (Huileng Tan)",
+            "title": "The IMF thinks we may actually skirt a recession. It is also surprisingly upbeat about Russia's economy.",
+            "description": "It expects the world economy to grow by 2.9% in 2023 \u2014 higher than its October forecast\u2014 thanks to a strong labor markets and household consumption.",
+            "url": "https://markets.businessinsider.com/news/stocks/imf-recession-russia-gdp-growth-forecast-world-economic-outlook-2023-1",
+            "urlToImage": "https://i.insider.com/63d8b17f7db5600019babfac?width=1200&format=jpeg",
+            "publishedAt": "2023-01-31T09:14:54Z",
+            "content": "The world economy may actually not be as bad as it seems, the International Monetary Fund said Monday, as it upped its global growth forecast to 2.9% in 2023.\u00a0\r\nWhile that's still slower than the pac\u2026 [+2034 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Shiels steps down as Northern Ireland women's coach - Reuters",
+            "description": "Northern Ireland women's manager Kenny Shiels has left his role, the country's football association (IFA) <a href=\"https://www.irishfa.com/news/2023/january/irish-fa-statement-kenny-shiels\" target=\"_blank\">said</a> on Tuesday.",
+            "url": "https://www.reuters.com/lifestyle/sports/shiels-steps-down-northern-ireland-womens-coach-2023-01-31/",
+            "urlToImage": "https://www.reuters.com/resizer/Lr4T2P7DuFFQntBNvgagCGjrQW4=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/SFZFXEOH45J4XE5J453NNX27UI.jpg",
+            "publishedAt": "2023-01-31T18:15:00Z",
+            "content": "Jan 31 (Reuters) - Northern Ireland women's manager Kenny Shiels has left his role, the country's football association (IFA) said on Tuesday.\r\nThe 66-year-old took over the team in May 2019, succeedi\u2026 [+1048 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Entrepreneur"
+            },
+            "author": "Steve Huff",
+            "title": "Exclusive Sting Concert for Microsoft Execs Preceded Layoff of 10,000 Employees",
+            "description": "The tech giant held the private concert in Davos, Switzerland, where business leaders gathered for the World Economic Forum.",
+            "url": "https://www.entrepreneur.com/business-news/sting-concert-for-microsoft-execs-preceded-layoffs/443325",
+            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674186781-GettyImages-1451360700-sting.jpg",
+            "publishedAt": "2023-01-20T04:16:00Z",
+            "content": "Microsoft hosted an invite-only event in Davos, Switzerland, on Tuesday featuring a performance by Sting. The 50 attendees included top executives. It may have been a World Economic Forum (WEF) highl\u2026 [+1395 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Kris Holt",
+            "title": "An Xbox and Bethesda showcase is set for January 25th",
+            "description": "The first major gaming showcase of the year (unless another one emerges in the meantime) is on the calendar. Xbox\r\n and Bethesda\r\n are hosting an event on January 25th at 3PM ET. You'll be able to watch it on both brands' Twitch and YouTube channels.The so-ca\u2026",
+            "url": "https://www.engadget.com/xbox-bethesda-showcase-developer-direct-showcase-forza-motorsport-redfall-160842421.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/96858130-91c5-11ed-aff6-6dae08572dfe",
+            "publishedAt": "2023-01-11T16:08:42Z",
+            "content": "The first major gaming showcase of the year (unless another one emerges in the meantime) is on the calendar. Xbox\r\n and Bethesda\r\n are hosting an event on January 25th at 3PM ET. You'll be able to wa\u2026 [+1590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Caitlin Cassidy",
+            "title": "Who is Taryn Brumfitt? Here\u2019s what you need to know about the 2023 Australian of the Year",
+            "description": "The writer and director\u2019s body image advocacy started with a viral post and is headed for the upper echelons of government<ul><li>Follow our Australia news live blog for the latest updates</li><li>Get our morning and afternoon news emails, free app or daily n\u2026",
+            "url": "https://www.theguardian.com/australia-news/2023/jan/26/who-is-taryn-brumfitt-2023-australian-of-the-year-body-image-activist",
+            "urlToImage": "https://i.guim.co.uk/img/media/78a315042738ffa97c261b98e3b2d0046ff09b98/0_171_5127_3076/master/5127.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76842b14c4896b95ca428037e80f9e33",
+            "publishedAt": "2023-01-26T01:20:39Z",
+            "content": "Bestselling writer, director and body image campaigner Taryn Brumfitt has been named the 2023 Australian of the Year.\r\nThe 45-year-old mother of four first came into public life in 2013, when a simpl\u2026 [+3857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "James Whitbrook",
+            "title": "Wizards of the Coast Announces 'Transparent' Feedback Process on D&D's New Game License",
+            "description": "In the wake of io9's reporting on Wizards of the Coast\u2019s plans to update Dungeons & Dragons\u2019 long-established Open Game License\u2014the proprietary agreement that allows creatives to develop new content and systems using the rules of the iconic RPG\u2014the publisher\u2019\u2026",
+            "url": "https://gizmodo.com/dungeons-and-dragons-ogl-update-license-wotc-feedback-1850001680",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/eb076aead99a0f7bf68c89ecc46196b8.png",
+            "publishedAt": "2023-01-18T18:00:00Z",
+            "content": "In the wake of io9's reporting on Wizards of the Coasts plans to update Dungeons &amp; Dragons long-established Open Game Licensethe proprietary agreement that allows creatives to develop new content\u2026 [+1277 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Turkey says it is \"meaningless\" to restore NATO dialogue with ... - Reuters",
+            "description": "Turkish Foreign Minister Mevlut Cavusoglu said on Thursday it was \"meaningless\" to hold a trilateral meeting with Sweden and Finland to discuss their NATO bids after <a href=\"/world/turkey-cancels-swedish-defence-minister-visit-after-protest-permit-2023-01-21\u2026",
+            "url": "https://www.reuters.com/world/turkey-says-it-is-meaningless-restore-nato-dialogue-with-sweden-finland-2023-01-26/",
+            "urlToImage": "https://www.reuters.com/resizer/xWTGaqqqFeGLIP7dWPQFYZl0wNw=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/3MRMUIWWRBLSDKIJEHULACZ6OY.jpg",
+            "publishedAt": "2023-01-26T12:14:00Z",
+            "content": "ANKARA, Jan 26 (Reuters) - Turkish Foreign Minister Mevlut Cavusoglu said on Thursday it was \"meaningless\" to hold a trilateral meeting with Sweden and Finland to discuss their NATO bids after protes\u2026 [+496 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Swiatek wanted to test herself against Barty at her best - Reuters.com",
+            "description": "Iga Swiatek enjoyed a friendly hit with Ash Barty at Melbourne Park on Saturday and later mused on the way last season could have unfolded had the Australian not shocked the tennis world by announcing her retirement.",
+            "url": "https://www.reuters.com/lifestyle/sports/swiatek-wanted-test-herself-against-barty-her-best-2023-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/0CmxAh4egIrdZ8VquR2MPIh6UT8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XWWB26T4VVOPJCGOPEV463LSQA.jpg",
+            "publishedAt": "2023-01-14T08:00:00Z",
+            "content": "MELBOURNE, Jan 14 (Reuters) - Iga Swiatek enjoyed a friendly hit with Ash Barty at Melbourne Park on Saturday and later mused on the way last season could have unfolded had the Australian not shocked\u2026 [+1533 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian sport",
+            "title": "Premiership Rugby to test shot clock in weekend fixtures",
+            "description": "<ul><li>Shot clocks to be displayed for penalties and conversions</li><li>World Rugby eager to speed up the game</li></ul>The Premiership has announced plans to test new shot-clock technology for the first time this weekend, as the league trials World Rugby\u2019s\u2026",
+            "url": "https://www.theguardian.com/sport/2023/jan/26/premiership-rugby-to-test-new-shot-clock-technology-in-weekend-fixtures",
+            "urlToImage": "https://i.guim.co.uk/img/media/3595418a738e685e7b7eaacdcdcbba19f50e679d/0_311_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4eb8d2425862e150b68c08912265643e",
+            "publishedAt": "2023-01-26T14:14:37Z",
+            "content": "The Premiership has announced plans to test new shot-clock technology for the first time this weekend, as the league trials World Rugbys latest measure aimed at speeding up the game. Under World Rugb\u2026 [+1318 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Stephen Armstrong",
+            "title": "Meet the Earth\u2019s Lawyers",
+            "description": "ClientEarth helps shape new laws and enforce old ones to protect the planet and its most vulnerable inhabitants.",
+            "url": "https://www.wired.com/story/clientearth-lawyers-defending-environment/",
+            "urlToImage": "https://media.wired.com/photos/63b77d68d58658572e6f2092/191:100/w_1280,c_limit/MasigIsland_climate_science_GettyImages-540010195.jpg",
+            "publishedAt": "2023-01-06T12:00:00Z",
+            "content": "ClientEarths interpretation of fiduciary duty has never been applied before, says Marjanac, but she is confident that will change. Fiduciary duty is about prudent risk management. Human rights are ab\u2026 [+4259 chars]"
+        }
+    ]
+}
