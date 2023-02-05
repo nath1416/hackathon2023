@@ -1,6 +1,7 @@
 import json
 # Import database module.
 import firebase_admin
+import random
 # from firebase_admin import db 
 from firebase_admin import credentials
 from firebase_admin import firestore
@@ -35,17 +36,18 @@ def get_comments_database():
         if data_dic["type"] == "NewsApi":
             #continue
             current_comments.append(data_dic["body"])
-        elif data_dic["type"] == "Reddit":
-            for comment in data_dic["comments"]:
-                if comment["body"].strip() != "":
-                    current_comments.append(comment["body"])
+        else:
+            continue
+        # elif data_dic["type"] == "Reddit":
+        #     for comment in data_dic["comments"]:
+        #         if comment["body"].strip() != "":
+        #             current_comments.append(comment["body"])
 
         print(current_comments)
         if isAtricleGoodFromComments(current_comments):
             print("Good News")
-            print(data_dic["body"])
             
-            send_database(data_dic, "sortedBetter", data_dic["body"])
+            send_database(data_dic, "sortedBetter1", str(random.getrandbits(128)))
 
 def get_ai_approval(comments):
     pass

@@ -47,6 +47,9 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
     return bool(
         int(
             co.classify(examples=examples, inputs=comments, model="large")
+            co.classify(
+                examples=makeExamples(df, positive, negative), inputs=comments, model="large"
+            )
             .classifications[0]
             .prediction
         )
