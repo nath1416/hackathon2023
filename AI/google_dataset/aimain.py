@@ -45,4 +45,4 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
     )
 
 
-print(isAtricleGoodFromComments(["i love this post"]))
+print(isAtricleGoodFromComments(["i hate this shit"]))
