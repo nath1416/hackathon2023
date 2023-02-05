@@ -57,7 +57,7 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
         inputs=input,
         model="large",
     ).classifications[0]
-    return pred.prediction, pred.confidence
+    return "" if pred.prediction == 0 else pred.prediction, pred.confidence
 
 
 print(examples[5])
