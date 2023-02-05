@@ -32,4 +32,3 @@ def postComments(id: int, body):
     print(response.text.encode('utf8'))
     
 
-    

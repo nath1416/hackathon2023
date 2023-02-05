@@ -4,15 +4,18 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import firestore
 
-# Use the application default credentials.
-cred = credentials.Certificate("api/PrivateKey.json")
-
-firebase_admin.initialize_app(cred)
-db = firestore.client()
-
-
 API_KEY = '5f74ffb5db5443ccb5c7910cb57095e2'
 DIRECTORY_DATABASE = "./database/NewsApi/"
+
+EXTENSION_IMAGE = ".jpg"
+
+def init_firebase():
+        # Use the application default credentials.
+    cred = credentials.Certificate("api/PrivateKey.json")
+
+    firebase_admin.initialize_app(cred)
+    global db
+    db = firestore.client()
 
 def filter_strings(body_content:str):
     return ''.join(list(filter(lambda x: x.isalpha() or x.isnumeric() or x == " ", body_content)))
@@ -53,7 +56,7 @@ def parse_articles(data_json, num_article):
         article_data["body"] = article["description"]
         article_data["url"] = article["url"]
         article_data["urlImage"] = article["urlToImage"]
-        article_data["hasImage"] = True
+        article_data["hasImage"] = article["urlToImage"] is not "null"
         comments_data = {}
         comments_data["body"] = filter_strings(article_data["body"])
         article_data["comments"] = comments_data
@@ -90,7 +93,7 @@ def get_multiple_articles(newsapi):
 
 def main():
     newsapi = init_newsapi()
-
+    init_firebase()
     subject_search = "Good News"
     data_json_articles = get_articles(newsapi=newsapi,subject= subject_search)
     #data_json_string = convert_json(data_json_articles)

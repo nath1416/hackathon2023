@@ -5,9 +5,9 @@ from typing import List
 import pandas
 import os
 
-os.chdir(r"hackathon2023/AI/google_dataset")
+os.chdir(r"AI/google_dataset")
 co = cohere.Client("FU0PxYd1At7VfBuFkqAX5I1G4Poykr7dmgoM8fsg")
-df = pandas.read_csv("hackathon2023\AI\google_dataset\go_emotions_dataset.csv")
+df = pandas.read_csv("go_emotions_dataset.csv")
 
 positive = [
     "admiration",
@@ -38,11 +38,11 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
     # temporary
     input = [",".join(comments)]
     print(type(input))
-    return bool(
-        co.classify(examples=makeExamples(df, positive), inputs=comments, model="small")
+    return bool(int(
+        co.classify(examples=makeExamples(df, positive), inputs=comments, model="large")
         .classifications[0]
         .prediction
-    )
+    ))
 
 
 print(isAtricleGoodFromComments(["i love this post"]))
