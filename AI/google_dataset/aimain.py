@@ -27,6 +27,10 @@ def makeExamples(df, tags):
         df["isTherePositive"] = df["isTherePositive"] | df[tag]
 
     examples = []
+    for tag in negative:
+        for i, value in enumerate(df[tag]):
+            if value == 1:
+                df["isTherePositive"][i] = 0
 
     for i, row in df.sample(n=2500).iterrows():
         examples.append(Example(row[1], str(int(row[-1]))))
