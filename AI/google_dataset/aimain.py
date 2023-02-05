@@ -38,11 +38,15 @@ def isAtricleGoodFromComments(comments: List[str]) -> bool:
     # temporary
     input = [",".join(comments)]
     print(type(input))
-    return bool(int(
-        co.classify(examples=makeExamples(df, positive), inputs=comments, model="large")
-        .classifications[0]
-        .prediction
-    ))
+    return bool(
+        int(
+            co.classify(
+                examples=makeExamples(df, positive), inputs=comments, model="large"
+            )
+            .classifications[0]
+            .prediction
+        )
+    )
 
 
 print(isAtricleGoodFromComments(["i love this post"]))
